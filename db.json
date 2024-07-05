@@ -2,22 +2,22 @@
     "categorias":[
         {
             "nombre": "SHONEN",
-            "color": "#0F0A7F",
+            "color": "#0794AA",
             "id": 1
         },
         {
             "nombre": "SHOJO",
-            "color": "#00C86F",
+            "color": "#E50BE5",
             "id": 2
         },
         {
             "nombre": "SEINEN",
-            "color": "#FFBA05",
+            "color": "#0F0A7F",
             "id": 3
         },
         {
             "nombre": "JOSEI",
-            "color": "#FFBA05",
+            "color": "#7607AA",
             "id": 4
         }
     ], 
