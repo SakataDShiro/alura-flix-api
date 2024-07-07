@@ -130,6 +130,42 @@
             "descripcion": "Kurashita Tsukimi queda fascinada por las medusas en un acuario al que su madre la lleva durante su infancia. Ella viene a Tokio desde Kagoshima con el sueño de convertirse en ilustradora.",
             "año" : "2010",
             "id": 12
+        },
+        {
+            "titulo": "NARUTO",
+            "categoria": "SHONEN",
+            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/e6b2cd29a5ff62f4591d3b299007e24e.jpe",
+            "url": "https://www.youtube.com/embed/QczGoCmX-pI?si=VaOHZaRGBTl2IoU_",
+            "descripcion": "Narra las aventuras de Naruto Uzumaki, un ninja adolescente que aspira a convertirse en Hokage -- el máximo rango ninja -- con el propósito de ser reconocido como alguien importante dentro de su aldea.", 
+            "año" : "2002",
+            "id": 13
+        },
+        {
+            "titulo": "TORADORA!",
+            "categoria": "SHOJO",
+            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/1e5af6bba8e2ce272fc6095dbc481cda.jpe",
+            "url": "https://www.youtube.com/embed/ya570uUgQNc?si=yOELuUiypOsrdxBf",
+            "descripcion": "Ryuji, un joven con un corazón de oro, entabla una inesperada amistad con Taiga, una niña mordaz con mucha, pero mucha actitud.", 
+            "año" : "2008",
+            "id": 14
+        },
+        {
+            "titulo": "COWBOY BEBOP",
+            "categoria": "SEINEN",
+            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/87a7725ab26709c9d17d9d44c7cee02a.jpe",
+            "url": "https://www.youtube.com/embed/AJKEXDKBVdk?si=na8Q_PtbFFcSu1Tc",
+            "descripcion": "Las aventuras de un grupo de cazarrecompensas que recorre el sistema solar persiguiendo criminales, mientras sus oscuros y misteriosos pasados salen a la luz poco a poco.", 
+            "año" : "1998",
+            "id": 15
+        },
+        {
+            "titulo": "STRANGE+",
+            "categoria": "JOSEI",
+            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/4b59bcf59d49849b343615c91f0b2b93.jpe",
+            "url": "https://www.youtube.com/embed/aAZ6kSyUf-E?si=0y61y53AbNoDctYH",
+            "descripcion": "Todo comienza con un muchacho llamado Ko que llega a los barrios bajos buscando a Takumi, su hermano mayor que se fue de casa hace años atrás y del cual nunca más supo nada. Ambos hermanos se reunen, y resulta que Takumi ahora es el encargado de regentar la agencia de detectives Mikuni.", 
+            "año" : "2014",
+            "id": 16
         }
     ]
 }
