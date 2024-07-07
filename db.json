@@ -130,6 +130,15 @@
             "descripcion": "Kurashita Tsukimi queda fascinada por las medusas en un acuario al que su madre la lleva durante su infancia. Ella viene a Tokio desde Kagoshima con el sueño de convertirse en ilustradora.",
             "año" : "2010",
             "id": 12
+        },
+        {
+            "titulo": "PRINCESS JELLYFISH",
+            "categoria": "SHONEN",
+            "imagen": "https://m.media-amazon.com/images/S/pv-target-images/b944e94f3de84d678ca7e6e971bbede43c5849ec7e1b0202accb460bd8dd7afa.jpg",
+            "url": "https://www.youtube.com/embed/sipUVHlDbgI?si=roIl7zrAIL_XAcvH",
+            "descripcion": "Kurashita Tsukimi queda fascinada por las medusas en un acuario al que su madre la lleva durante su infancia. Ella viene a Tokio desde Kagoshima con el sueño de convertirse en ilustradora.",
+            "año" : "2010",
+            "id": 13
         }
     ]
 }
