@@ -148,6 +148,15 @@
             "descripcion": "Ryuji, un joven con un corazón de oro, entabla una inesperada amistad con Taiga, una niña mordaz con mucha, pero mucha actitud.", 
             "año" : "2008",
             "id": 14
+        },
+        {
+            "titulo": "COWBOY BEBOP",
+            "categoria": "SEINEN",
+            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/87a7725ab26709c9d17d9d44c7cee02a.jpe",
+            "url": "https://www.youtube.com/embed/AJKEXDKBVdk?si=na8Q_PtbFFcSu1Tc",
+            "descripcion": "Las aventuras de un grupo de cazarrecompensas que recorre el sistema solar persiguiendo criminales, mientras sus oscuros y misteriosos pasados salen a la luz poco a poco.", 
+            "año" : "1998",
+            "id": 15
         }
     ]
 }
