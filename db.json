@@ -139,6 +139,15 @@
             "descripcion": "Narra las aventuras de Naruto Uzumaki, un ninja adolescente que aspira a convertirse en Hokage -- el máximo rango ninja -- con el propósito de ser reconocido como alguien importante dentro de su aldea.",
             "año" : "2002",
             "id": 13
+        },
+        {
+            "titulo": "TORADORA!",
+            "categoria": "SHOJO",
+            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/1e5af6bba8e2ce272fc6095dbc481cda.jpe",
+            "url": "https://www.youtube.com/embed/ya570uUgQNc?si=yOELuUiypOsrdxBf",
+            "descripcion": "Ryuji, un joven con un corazón de oro, entabla una inesperada amistad con Taiga, una niña mordaz con mucha, pero mucha actitud.", 
+            "año" : "2008",
+            "id": 14
         }
     ]
 }
