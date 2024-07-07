@@ -132,12 +132,12 @@
             "id": 12
         },
         {
-            "titulo": "NARUTO",
-            "categoria": "SHONEN",
-            "imagen": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/e6b2cd29a5ff62f4591d3b299007e24e.jpe",
-            "url": "https://www.youtube.com/embed/QczGoCmX-pI?si=VaOHZaRGBTl2IoU_",
-            "descripcion": "Narra las aventuras de Naruto Uzumaki, un ninja adolescente que aspira a convertirse en Hokage -- el máximo rango ninja -- con el propósito de ser reconocido como alguien importante dentro de su aldea.", 
-            "año" : "2002",
+            "titulo": "PRINCESS JELLYFISH",
+            "categoria": "JOSEI",
+            "imagen": "https://m.media-amazon.com/images/S/pv-target-images/b944e94f3de84d678ca7e6e971bbede43c5849ec7e1b0202accb460bd8dd7afa.jpg",
+            "url": "https://www.youtube.com/embed/sipUVHlDbgI?si=roIl7zrAIL_XAcvH",
+            "descripcion": "Kurashita Tsukimi queda fascinada por las medusas en un acuario al que su madre la lleva durante su infancia. Ella viene a Tokio desde Kagoshima con el sueño de convertirse en ilustradora.",
+            "año" : "2010",
             "id": 13
         }
     ]
